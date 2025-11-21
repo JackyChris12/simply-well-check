@@ -38,7 +38,7 @@ simply-well-check/
 ├── public/ # Static assets
 └── configuration files (vite.config.ts, tailwind.config.ts, etc.)
 
-
+## [view site](https://soft-eclair-002257.netlify.app/)
 
 ## 🛠️ Getting Started
 
